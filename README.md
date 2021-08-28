@@ -4,7 +4,7 @@ Tools for comparing React UI libs in one place
 
 
 
-### List of UI libraries
+### UI libraries
 
 - https://blueprintjs.com/
 - https://alfa-laboratory.github.io/arui-feather/styleguide/#/Amount
@@ -18,20 +18,20 @@ Tools for comparing React UI libs in one place
 
 
 
-### List of Tailwind UI libraries
+### Tailwind UI libraries
 
 - https://www.tailwind-kit.com/
 
 
 
-### List of Brand Guides
+### Brand Guides
 
 - https://brand.rambler.ru/
 - https://github.com/streamich/awesome-styleguides
 
 
 
-### List of UI Marketplacees
+### UI Marketplacees
 
 - https://scaffold.ant.design/#/?tags=react
 
