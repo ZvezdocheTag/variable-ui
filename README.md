@@ -15,6 +15,14 @@ Tools for comparing React UI libs in one place
 - https://seek-oss.github.io/braid-design-system/
 - https://wiredjs.com/showcase.html
 - https://github.com/microsoft/fluentui
+- https://evergreen.segment.com/
+- https://chakra-ui.com/
+- https://v2.grommet.io/
+- https://react-bootstrap.github.io/
+- https://react.semantic-ui.com/
+- https://react.carbondesignsystem.com/?path=/story/getting-started-welcome--welcome
+- https://onsen.io/react/
+- https://reactstrap.github.io/
 
 
 
@@ -45,11 +53,13 @@ Tools for comparing React UI libs in one place
 - https://istrel.github.io/ast-getting-started/
 
 
-### Remote debuggers
+### Remote debug resources
 
 - https://github.com/RemoteDebug/remotedebug-firefox-adapter
 - https://github.com/cyrus-and/chrome-remote-interface
 - https://compatibility.remotedebug.org/
+- https://chromedevtools.github.io/devtools-protocol/
+- https://developers.google.com/web/updates/2017/04/headless-chrome#frontend
 
 
 
