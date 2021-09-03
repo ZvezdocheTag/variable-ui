@@ -37,6 +37,7 @@ Tools for comparing React UI libs in one place
 - http://reactdesktop.js.org/
 - https://rsuitejs.com/
 - https://primefaces.org/primereact/showcase/#/setup
+- https://github.com/streamich/libreact
 
 
 
@@ -87,12 +88,14 @@ Tools for comparing React UI libs in one place
 - https://chromedevtools.github.io/devtools-protocol/
 - https://developers.google.com/web/updates/2017/04/headless-chrome#frontend
 - https://codereview.chromium.org/1350183004
-- 
+- https://github.com/aslushnikov/getting-started-with-cdp/blob/master/README.md
+- https://github.com/puppeteer/puppeteer/issues/1619
 
 
 ### Other Awesome UI/UX lists
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
-- 
+- https://github.com/sw-yx/spark-joy
+
 
 TODO:
 1. Add last commit
