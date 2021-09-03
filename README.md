@@ -59,7 +59,7 @@ Tools for comparing React UI libs in one place
 - https://brand.rambler.ru/
 - https://github.com/streamich/awesome-styleguides
 
-### UI Marketplacees
+### UI Marketplaces
 
 - https://scaffold.ant.design/#/?tags=react
 
