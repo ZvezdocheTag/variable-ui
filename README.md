@@ -32,7 +32,8 @@ Tools for comparing React UI libs in one place
 - https://sap.github.io/ui5-webcomponents/playground
 - https://github.com/sap/fundamental-react
 - https://sap.github.io/ui5-webcomponents-react/?path=/story/getting-started--page
-- 
+- https://github.com/VKCOM/VKUI
+
 
 
 
@@ -80,6 +81,8 @@ Tools for comparing React UI libs in one place
 - https://compatibility.remotedebug.org/
 - https://chromedevtools.github.io/devtools-protocol/
 - https://developers.google.com/web/updates/2017/04/headless-chrome#frontend
+- https://codereview.chromium.org/1350183004
+- 
 
 
 ### Other Awesome UI/UX lists
