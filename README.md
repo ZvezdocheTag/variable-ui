@@ -33,6 +33,10 @@ Tools for comparing React UI libs in one place
 - https://github.com/sap/fundamental-react
 - https://sap.github.io/ui5-webcomponents-react/?path=/story/getting-started--page
 - https://github.com/VKCOM/VKUI
+- https://www.telerik.com/kendo-react-ui/ - paid
+- http://reactdesktop.js.org/
+- https://rsuitejs.com/
+- https://primefaces.org/primereact/showcase/#/setup
 
 
 
@@ -53,6 +57,7 @@ Tools for comparing React UI libs in one place
 
 - https://froala.com/design-blocks/
 - https://github.com/froala/react-froala-design-blocks
+- https://www.primefaces.org/primeblocks-react/#/ - paid
 
 
 ### Brand Guides
