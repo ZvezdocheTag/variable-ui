@@ -27,21 +27,35 @@ Tools for comparing React UI libs in one place
 - http://elemental-ui.com/
 - https://github.com/react-toolbox/react-toolbox
 - https://react-spectrum.adobe.com/react-spectrum/index.html
+- https://wix-wix-ui-core.surge.sh/?path=/story/components--addressinput
+- https://elastic.github.io/eui/#/
+- https://sap.github.io/ui5-webcomponents/playground
+- https://github.com/sap/fundamental-react
 
 
 
 ### Tailwind UI libraries
 
 - https://www.tailwind-kit.com/
+- https://tailwind-mobile.com/
 
+
+### Landing Templates
+
+- https://landing.ant.design/
+- https://github.com/saadpasta/developerFolio
+
+
+### Design Blocks
+
+- https://froala.com/design-blocks/
+- https://github.com/froala/react-froala-design-blocks
 
 
 ### Brand Guides
 
 - https://brand.rambler.ru/
 - https://github.com/streamich/awesome-styleguides
-
-
 
 ### UI Marketplacees
 
