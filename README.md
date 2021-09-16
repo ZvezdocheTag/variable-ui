@@ -135,6 +135,7 @@ Tools for comparing React UI libs in one place
 ### Source Code Analyzer
 - https://github.com/danvk/source-map-explorer#readme
 - https://github.com/webpack-contrib/webpack-bundle-analyzer
+- https://github.com/lahmatiy/react-render-tracker
 
 
 
@@ -157,6 +158,11 @@ Tools for comparing React UI libs in one place
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
 - https://github.com/sw-yx/spark-joy
 - https://github.com/aniftyco/awesome-tailwindcss
+
+
+### Articles
+1. Fix font layout shift - https://simonhearne.com/2021/layout-shifts-webfonts/
+2. Host Next.js app with AWS - https://sosnowski.dev/post/static-serverless-site-with-nextjs
 
 
 
