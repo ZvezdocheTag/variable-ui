@@ -122,6 +122,10 @@ Tools for comparing React UI libs in one place
 
 - https://istrel.github.io/ast-getting-started/
 
+### Base CSS
+- https://source.chromium.org/chromium/chromium/src/+/master:third_party/blink/renderer/core/html/resources/html.css - chrome browser default css that are implementing for each website
+
+
 
 ### Remote debug resources
 
