@@ -139,6 +139,7 @@ Tools for comparing React UI libs in one place
 - https://github.com/puppeteer/puppeteer/issues/1619
 - https://github.com/ChromeDevTools/devtools-protocol
 - https://github.com/ChromeDevTools/devtools-frontend
+- https://github.com/ChromeDevTools/awesome-chrome-devtools
 
 
 ### Other Awesome UI/UX lists
