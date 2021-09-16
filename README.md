@@ -117,14 +117,25 @@ Tools for comparing React UI libs in one place
 
 ### AST processing libraries
 - https://github.com/jsx-eslint/jsx-ast-utils
+- https://github.com/facebook/jscodeshift
 
 
 ### AST processing articles
 
 - https://istrel.github.io/ast-getting-started/
+- https://www.digitalocean.com/community/tutorials/js-traversing-ast
+
+
 
 ### Base CSS
 - https://source.chromium.org/chromium/chromium/src/+/master:third_party/blink/renderer/core/html/resources/html.css - chrome browser default css that are implementing for each website
+
+
+
+### Source Code Analyzer
+- https://github.com/danvk/source-map-explorer#readme
+- https://github.com/webpack-contrib/webpack-bundle-analyzer
+
 
 
 
