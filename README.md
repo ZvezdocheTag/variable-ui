@@ -138,6 +138,7 @@ Tools for comparing React UI libs in one place
 - https://codereview.chromium.org/1350183004
 - https://github.com/aslushnikov/getting-started-with-cdp/blob/master/README.md
 - https://github.com/puppeteer/puppeteer/issues/1619
+- https://github.com/ChromeDevTools/devtools-protocol
 
 
 ### Other Awesome UI/UX lists
