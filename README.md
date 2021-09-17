@@ -124,6 +124,7 @@ Tools for comparing React UI libs in one place
 
 - https://istrel.github.io/ast-getting-started/
 - https://www.digitalocean.com/community/tutorials/js-traversing-ast
+- https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/user-handbook.md
 
 
 
@@ -152,6 +153,15 @@ Tools for comparing React UI libs in one place
 - https://github.com/ChromeDevTools/devtools-protocol
 - https://github.com/ChromeDevTools/devtools-frontend
 - https://github.com/ChromeDevTools/awesome-chrome-devtools
+
+
+### Open Source / Free Illustration
+- https://undraw.co/
+- https://drawkit.io/
+- https://icons8.com/illustrations
+- https://blush.design/
+
+
 
 
 ### Other Awesome UI/UX lists
