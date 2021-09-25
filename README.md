@@ -155,12 +155,17 @@ Tools for comparing React UI libs in one place
 - https://github.com/ChromeDevTools/awesome-chrome-devtools
 
 
-### Open Source / Free Illustration
+### Photo Stocks / Free Illustration
 - https://undraw.co/
 - https://drawkit.io/
 - https://icons8.com/illustrations
 - https://blush.design/
 - https://www.freepik.com/vectors/illustrations
+- https://librestock.com/
+- https://www.pexels.com/
+- https://magdeleine.co/browse/
+- https://unsplash.com/
+- https://designmodo.com/free-photos/
 
 
 
