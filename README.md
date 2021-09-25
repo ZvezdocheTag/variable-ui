@@ -174,6 +174,7 @@ Tools for comparing React UI libs in one place
 ### Articles
 1. Fix font layout shift - https://simonhearne.com/2021/layout-shifts-webfonts/
 2. Host Next.js app with AWS - https://sosnowski.dev/post/static-serverless-site-with-nextjs
+3. Design System Principles high level explanation - https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969
 
 
 
