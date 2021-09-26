@@ -168,7 +168,18 @@ Tools for comparing React UI libs in one place
 - https://designmodo.com/free-photos/
 
 
+### Icons
 
+- https://fontawesome.com/
+- https://icomoon.io/
+- https://www.flaticon.com/
+- https://icons8.com/
+- https://primer.style/octicons/
+- https://fontello.com/
+- https://evil-icons.io/
+- https://fonts.google.com/icons
+- https://iconmonstr.com/
+- https://fontello.com/
 
 ### Other Awesome UI/UX lists
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
