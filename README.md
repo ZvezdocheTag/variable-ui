@@ -38,6 +38,10 @@ Tools for comparing React UI libs in one place
 - https://rsuitejs.com/
 - https://primefaces.org/primereact/showcase/#/setup
 - https://github.com/streamich/libreact
+- https://nhsuk.github.io/nhsuk-frontend/pages/examples.html
+- https://github.com/cardinalcss/cardinalcss
+- https://github.com/yegor256/tacit
+- https://github.com/picturepan2/spectre
 
 
 
@@ -185,6 +189,8 @@ Tools for comparing React UI libs in one place
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
 - https://github.com/sw-yx/spark-joy
 - https://github.com/aniftyco/awesome-tailwindcss
+- https://github.com/RitikPatni/Front-End-Web-Development-Resources
+- https://github.com/troxler/awesome-css-frameworks
 
 
 ### Articles
