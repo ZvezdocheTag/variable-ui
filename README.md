@@ -99,6 +99,7 @@ Tools for comparing React UI libs in one place
 - https://github.com/underlay/www.underlay.org
 - https://jamstackthemes.dev/ssg/next/
 - https://github.com/timlrx/tailwind-nextjs-starter-blog
+- https://creativedesignsguru.com/
 
 
 ### Design Blocks
