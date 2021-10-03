@@ -145,7 +145,7 @@ Tools for comparing React UI libs in one place
 
 
 
-### Remote debug / devtools resources
+### Remote debug 
 
 - https://github.com/RemoteDebug/remotedebug-firefox-adapter
 - https://github.com/cyrus-and/chrome-remote-interface
@@ -157,6 +157,13 @@ Tools for comparing React UI libs in one place
 - https://github.com/ChromeDevTools/devtools-protocol
 - https://github.com/ChromeDevTools/devtools-frontend
 - https://github.com/ChromeDevTools/awesome-chrome-devtools
+
+
+### Devtools resources
+- https://github.com/lahmatiy/react-render-tracker
+- https://developer.chrome.com/docs/devtools/
+- https://developer.chrome.com/docs/devtools/workspaces/
+
 
 
 ### Photo Stocks / Free Illustration
