@@ -95,6 +95,7 @@ Tools for comparing React UI libs in one place
 - https://github.com/cruip/tailwind-landing-page-template
 - https://github.com/underlay/www.underlay.org
 - https://jamstackthemes.dev/ssg/next/
+- https://github.com/timlrx/tailwind-nextjs-starter-blog
 
 
 ### Design Blocks
@@ -136,7 +137,10 @@ Tools for comparing React UI libs in one place
 ### Base CSS
 - https://source.chromium.org/chromium/chromium/src/+/master:third_party/blink/renderer/core/html/resources/html.css - chrome browser default css that are implementing for each website
 
-
+### Colors Pallete
+- https://brandpalettes.com/
+- https://coolors.co/
+- 
 
 ### Source Code Analyzer
 - https://github.com/danvk/source-map-explorer#readme
