@@ -86,6 +86,9 @@ Tools for comparing React UI libs in one place
 - https://github.com/hasinhayder/tailwind-cards
 - 
 
+### Effects
+- css loaders - https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje
+- hover - https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
 
 ### Website Templates
 
