@@ -87,13 +87,14 @@ Tools for comparing React UI libs in one place
 - 
 
 
-### Landing Templates / Open Source
+### Website Templates
 
 - https://landing.ant.design/
 - https://github.com/saadpasta/developerFolio
 - https://landing-gradients.netlify.app/
 - https://github.com/cruip/tailwind-landing-page-template
 - https://github.com/underlay/www.underlay.org
+- https://jamstackthemes.dev/ssg/next/
 
 
 ### Design Blocks
