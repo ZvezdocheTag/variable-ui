@@ -1,6 +1,9 @@
 # variable-ui
 
-Tools for comparing React UI libs in one place
+Tools for compa
+
+
+React UI libs in one place
 
 
 
@@ -42,6 +45,7 @@ Tools for comparing React UI libs in one place
 - https://github.com/cardinalcss/cardinalcss
 - https://github.com/yegor256/tacit
 - https://github.com/picturepan2/spectre
+- https://github.com/JetBrains/ring-ui
 
 
 
@@ -152,7 +156,11 @@ Tools for comparing React UI libs in one place
 - https://github.com/lahmatiy/react-render-tracker
 
 
-
+### Image to code
+- https://www.researchgate.net/publication/325920827_pix2code_Generating_Code_from_a_Graphical_User_Interface_Screenshot
+- https://www.researchgate.net/publication/349963791_Automatic_code_generation_from_sketches_of_mobile_applications_in_end-user_development_using_Deep_Learning
+- https://arxiv.org/pdf/1705.07962.pdf
+- https://uizard.io/research/#pix2code
 
 ### Remote debug 
 
@@ -219,6 +227,7 @@ Tools for comparing React UI libs in one place
 1. Fix font layout shift - https://simonhearne.com/2021/layout-shifts-webfonts/
 2. Host Next.js app with AWS - https://sosnowski.dev/post/static-serverless-site-with-nextjs
 3. Design System Principles high level explanation - https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969
+4. https://www.uibugs.com/
 
 
 
