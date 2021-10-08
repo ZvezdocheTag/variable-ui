@@ -88,7 +88,7 @@ React UI libs in one place
 
 ### Tailwind Components
 - https://github.com/hasinhayder/tailwind-cards
-- 
+- https://www.ordinarycoders.com/blog/article/17-tailwindcss-cards
 
 ### Effects
 - css loaders - https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje
@@ -105,6 +105,8 @@ React UI libs in one place
 - https://github.com/timlrx/tailwind-nextjs-starter-blog
 - https://creativedesignsguru.com/
 
+### Component props 
+- https://github.com/skad0/emdr-view/tree/master/src/components/my-component
 
 ### Design Blocks
 
