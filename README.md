@@ -211,6 +211,7 @@ React UI libs in one place
 - https://fonts.google.com/icons
 - https://iconmonstr.com/
 - https://fontello.com/
+- https://github.com/radix-ui/icons
 
 
 
