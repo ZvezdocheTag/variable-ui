@@ -46,6 +46,7 @@ React UI libs in one place
 - https://github.com/yegor256/tacit
 - https://github.com/picturepan2/spectre
 - https://github.com/JetBrains/ring-ui
+- https://github.com/picocss/pico
 
 
 
