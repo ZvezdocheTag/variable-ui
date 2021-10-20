@@ -215,6 +215,7 @@ React UI libs in one place
 - https://iconmonstr.com/
 - https://fontello.com/
 - https://github.com/radix-ui/icons
+- https://iconsax.io/
 
 
 
