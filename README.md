@@ -86,6 +86,11 @@ React UI libs in one place
 - https://lofiui.co/
 
 
+### Starter Templates
+
+- https://html5boilerplate.com/
+
+
 
 ### Tailwind Components
 - https://github.com/hasinhayder/tailwind-cards
