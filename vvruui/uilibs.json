@@ -1,0 +1,64 @@
+{
+  "libraries": [
+    {
+      "name": "Material Kit",
+      "url": "https://material-ui.com/",
+      "github": "https://github.com/mui-org/material-ui"
+    },
+    {
+      "name": "Elemental UI",
+      "url": "http://elemental-ui.com/",
+      "github": "https://github.com/elementalui/elemental"
+    },
+    {
+      "name": "Grommet",
+      "url": "https://grommet.io",
+      "github": "https://github.com/grommet/grommet"
+    },
+    {
+      "name": "Ant-Design",
+      "url": "https://ant.design",
+      "github": "https://github.com/ant-design/ant-design"
+    },
+    {
+      "name": "Rsuit",
+      "url": "https://rsuitejs.com/",
+      "github": "https://github.com/rsuite/rsuite"
+    },
+    {
+      "name": "Belle",
+      "url": "http://nikgraf.github.io/belle",
+      "github": "https://github.com/nikgraf/belle"
+    },
+    {
+      "name": "React-Bootstrap",
+      "url": "https://react-bootstrap.github.io/",
+      "github": "https://github.com/react-bootstrap/react-bootstrap"
+    },
+    {
+      "name": "Blueprint",
+      "url": "https://blueprintjs.com/",
+      "github": "https://github.com/palantir/blueprint"
+    },
+    {
+      "name": "Semantic-UI-React",
+      "url": " https://react.semantic-ui.com/",
+      "github": "https://github.com/Semantic-Org/Semantic-UI-React"
+    },
+    {
+      "name": "React Desktop",
+      "url": "http://reactdesktop.js.org",
+      "github": "https://github.com/gabrielbull/react-desktop"
+    },
+    {
+      "name": "Evergreen",
+      "url": "https://evergreen.segment.com/",
+      "github": "https://github.com/segmentio/evergreen"
+    },
+    {
+      "name": "Rebass",
+      "url": "https://rebassjs.org/",
+      "github": "https://github.com/rebassjs/rebass"
+    }
+  ]
+}
