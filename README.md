@@ -120,6 +120,11 @@ React UI libs in one place
 - https://github.com/froala/react-froala-design-blocks
 - https://www.primefaces.org/primeblocks-react/#/ - paid
 
+### Resolutions
+
+- https://en.wikipedia.org/wiki/List_of_common_resolutions
+
+
 
 ### Grids
 - https://grids.obys.agency/
