@@ -251,7 +251,14 @@ React UI libs in one place
 - https://atlassian.design/components/button/examples
 
 
+### Annotation UI
+  
+### Website checklist
 
+- https://anyforsoft.com/blog/website-quality-assurance-checklist/
+- https://acodez.in/website-quality-assurance-checklist/
+- https://habr.com/ru/company/htmlacademy/blog/566244/
+- 
 
 ### Other Awesome UI/UX lists
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
