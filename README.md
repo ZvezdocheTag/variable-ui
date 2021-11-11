@@ -7,6 +7,10 @@ React UI libs in one place
 
 
 
+### Browser
+
+- https://developer.chrome.com/blog/renderingng-architecture/
+
 ### UI libraries
 
 - https://blueprintjs.com/
@@ -258,7 +262,7 @@ React UI libs in one place
 - https://anyforsoft.com/blog/website-quality-assurance-checklist/
 - https://acodez.in/website-quality-assurance-checklist/
 - https://habr.com/ru/company/htmlacademy/blog/566244/
-- 
+- https://github.com/thedaviddias/Front-End-Checklist
 
 ### Other Awesome UI/UX lists
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
@@ -267,7 +271,10 @@ React UI libs in one place
 - https://github.com/RitikPatni/Front-End-Web-Development-Resources
 - https://github.com/troxler/awesome-css-frameworks
 
+### Design to Code
 
+- https://github.com/bernaferrari/FigmaToCode
+- 
 ### Articles
 1. Fix font layout shift - https://simonhearne.com/2021/layout-shifts-webfonts/
 2. Host Next.js app with AWS - https://sosnowski.dev/post/static-serverless-site-with-nextjs
