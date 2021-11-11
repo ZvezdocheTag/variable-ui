@@ -227,6 +227,10 @@ React UI libs in one place
 - https://iconsax.io/
 
 
+### UI/UX Analyzers
+
+- https://www.datamilk.ai/
+
 
 ### Frontend architecture
 - https://dev.to/bespoyasov/clean-architecture-on-frontend-4311
