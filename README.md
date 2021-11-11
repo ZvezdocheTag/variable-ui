@@ -240,6 +240,19 @@ React UI libs in one place
 ### Frontend architecture
 - https://dev.to/bespoyasov/clean-architecture-on-frontend-4311
 
+### Button
+
+- https://uxplanet.org/buttons-in-ui-design-the-evolution-of-style-and-best-practices-56536dc5386e
+- https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112
+- https://baymard.com/blog/back-button-expectations
+- https://www.uxmatters.com/mt/archives/2012/05/7-basic-best-practices-for-buttons.php
+- https://www.carbondesignsystem.com/components/button/usage/
+- https://material.io/components/buttons
+- https://atlassian.design/components/button/examples
+
+
+
+
 ### Other Awesome UI/UX lists
 - https://github.com/anubhavsrivastava/awesome-ux-design-styles
 - https://github.com/sw-yx/spark-joy
