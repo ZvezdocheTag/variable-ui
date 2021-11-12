@@ -221,6 +221,7 @@ React UI libs in one place
 - https://designmodo.com/free-photos/
 - https://2.flexiple.com/scale/all-illustrations
 - https://www.sketchappsources.com/free-source/3453-wireframe-kit-sketch-freebie-resource.html
+- https://previewed.app/
 
 
 ### Icons
@@ -285,6 +286,10 @@ React UI libs in one place
 - https://github.com/troxler/awesome-css-frameworks
 - https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
 - https://microservices.io/patterns/index.html
+- https://www.frontify.com/en/
+- https://tilda.education/courses/web-design/designsystem/
+- https://www.researchgate.net/publication/326079790_A_multi-modal_mapping_unit_for_autonomous_exploration_and_mapping_of_underground_tunnels
+- https://sites.google.com/site/onexvi/memories/top-20-web-studios-from-around-the-world
 
 
 TODO:
