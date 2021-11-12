@@ -100,9 +100,13 @@ React UI libs in one place
 - https://github.com/hasinhayder/tailwind-cards
 - https://www.ordinarycoders.com/blog/article/17-tailwindcss-cards
 
+
+
 ### Effects
 - css loaders - https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje
 - hover - https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
+
+
 
 ### Website Templates
 
@@ -115,8 +119,7 @@ React UI libs in one place
 - https://github.com/timlrx/tailwind-nextjs-starter-blog
 - https://creativedesignsguru.com/
 
-### Component props 
-- https://github.com/skad0/emdr-view/tree/master/src/components/my-component
+
 
 ### Design Blocks
 
@@ -124,14 +127,16 @@ React UI libs in one place
 - https://github.com/froala/react-froala-design-blocks
 - https://www.primefaces.org/primeblocks-react/#/ - paid
 
+
 ### Resolutions
 
 - https://en.wikipedia.org/wiki/List_of_common_resolutions
 
 
 
-### Grids
+### Grids and Layouts
 - https://grids.obys.agency/
+- https://csslayout.io/
 
 
 ### Brand Guides
@@ -163,8 +168,9 @@ React UI libs in one place
 
 
 
-### Base CSS
+### Specs
 - https://source.chromium.org/chromium/chromium/src/+/master:third_party/blink/renderer/core/html/resources/html.css - chrome browser default css that are implementing for each website
+
 
 ### Colors Pallete
 - https://brandpalettes.com/
@@ -182,6 +188,7 @@ React UI libs in one place
 - https://www.researchgate.net/publication/349963791_Automatic_code_generation_from_sketches_of_mobile_applications_in_end-user_development_using_Deep_Learning
 - https://arxiv.org/pdf/1705.07962.pdf
 - https://uizard.io/research/#pix2code
+
 
 ### Remote debug 
 
@@ -244,6 +251,8 @@ React UI libs in one place
 ### Frontend architecture
 - https://dev.to/bespoyasov/clean-architecture-on-frontend-4311
 
+
+
 ### Button
 
 - https://uxplanet.org/buttons-in-ui-design-the-evolution-of-style-and-best-practices-56536dc5386e
@@ -264,23 +273,25 @@ React UI libs in one place
 - https://habr.com/ru/company/htmlacademy/blog/566244/
 - https://github.com/thedaviddias/Front-End-Checklist
 
-### Other Awesome UI/UX lists
-- https://github.com/anubhavsrivastava/awesome-ux-design-styles
-- https://github.com/sw-yx/spark-joy
-- https://github.com/aniftyco/awesome-tailwindcss
-- https://github.com/RitikPatni/Front-End-Web-Development-Resources
-- https://github.com/troxler/awesome-css-frameworks
 
 ### Design to Code
 
 - https://github.com/bernaferrari/FigmaToCode
 - 
 ### Articles
-1. Fix font layout shift - https://simonhearne.com/2021/layout-shifts-webfonts/
-2. Host Next.js app with AWS - https://sosnowski.dev/post/static-serverless-site-with-nextjs
-3. Design System Principles high level explanation - https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969
-4. https://www.uibugs.com/
 
+
+
+### Resources
+-  Fix font layout shift - https://simonhearne.com/2021/layout-shifts-webfonts/
+- Host Next.js app with AWS - https://sosnowski.dev/post/static-serverless-site-with-nextjs
+- Design System Principles high level explanation - https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969
+- https://www.uibugs.com/
+- https://github.com/anubhavsrivastava/awesome-ux-design-styles
+- https://github.com/sw-yx/spark-joy
+- https://github.com/aniftyco/awesome-tailwindcss
+- https://github.com/RitikPatni/Front-End-Web-Development-Resources
+- https://github.com/troxler/awesome-css-frameworks
 
 
 TODO:
