@@ -284,6 +284,7 @@ React UI libs in one place
 - https://github.com/RitikPatni/Front-End-Web-Development-Resources
 - https://github.com/troxler/awesome-css-frameworks
 - https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
+- https://microservices.io/patterns/index.html
 
 
 TODO:
