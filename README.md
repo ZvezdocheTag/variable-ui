@@ -139,10 +139,11 @@ React UI libs in one place
 - https://csslayout.io/
 
 
-### Brand Guides
+### Style Guides
 
 - https://brand.rambler.ru/
 - https://github.com/streamich/awesome-styleguides
+- https://www.canva.com/learn/50-meticulous-style-guides-every-startup-see-launching/
 
 
 ### UI Marketplaces
@@ -153,7 +154,6 @@ React UI libs in one place
 - https://www.free-css.com/free-css-templates
 - https://reactjsexample.com/
 - https://bestoftailwind.com/t/ui-libraries-components-and-templates
-
 
 ### AST processing libraries
 - https://github.com/jsx-eslint/jsx-ast-utils
@@ -166,8 +166,6 @@ React UI libs in one place
 - https://www.digitalocean.com/community/tutorials/js-traversing-ast
 - https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/user-handbook.md
 
-
-
 ### Specs
 - https://source.chromium.org/chromium/chromium/src/+/master:third_party/blink/renderer/core/html/resources/html.css - chrome browser default css that are implementing for each website
 
@@ -175,7 +173,6 @@ React UI libs in one place
 ### Colors Pallete
 - https://brandpalettes.com/
 - https://coolors.co/
-- 
 
 ### Source Code Analyzer
 - https://github.com/danvk/source-map-explorer#readme
@@ -211,7 +208,6 @@ React UI libs in one place
 - https://github.com/open-source-labs/reactime
 
 
-
 ### Photo Stocks / Free Illustration
 - https://undraw.co/
 - https://drawkit.io/
@@ -241,6 +237,7 @@ React UI libs in one place
 - https://fontello.com/
 - https://github.com/radix-ui/icons
 - https://iconsax.io/
+- https://craftwork.design/downloads/category/illustrations/vector/
 
 
 ### UI/UX Analyzers
@@ -250,7 +247,6 @@ React UI libs in one place
 
 ### Frontend architecture
 - https://dev.to/bespoyasov/clean-architecture-on-frontend-4311
-
 
 
 ### Button
@@ -265,7 +261,6 @@ React UI libs in one place
 
 
 ### Annotation UI
-  
 ### Website checklist
 
 - https://anyforsoft.com/blog/website-quality-assurance-checklist/
@@ -273,13 +268,9 @@ React UI libs in one place
 - https://habr.com/ru/company/htmlacademy/blog/566244/
 - https://github.com/thedaviddias/Front-End-Checklist
 
-
 ### Design to Code
 
 - https://github.com/bernaferrari/FigmaToCode
-- 
-### Articles
-
 
 
 ### Resources
@@ -292,6 +283,7 @@ React UI libs in one place
 - https://github.com/aniftyco/awesome-tailwindcss
 - https://github.com/RitikPatni/Front-End-Web-Development-Resources
 - https://github.com/troxler/awesome-css-frameworks
+- https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
 
 
 TODO:
