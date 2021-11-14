@@ -120,6 +120,10 @@ React UI libs in one place
 - https://creativedesignsguru.com/
 
 
+### Charts
+
+- https://nivo.rocks/
+
 
 ### Design Blocks
 
@@ -137,6 +141,7 @@ React UI libs in one place
 ### Grids and Layouts
 - https://grids.obys.agency/
 - https://csslayout.io/
+- https://web.dev/patterns/layout/
 
 
 ### Style Guides
@@ -291,6 +296,9 @@ React UI libs in one place
 - https://tilda.education/courses/web-design/designsystem/
 - https://www.researchgate.net/publication/326079790_A_multi-modal_mapping_unit_for_autonomous_exploration_and_mapping_of_underground_tunnels
 - https://sites.google.com/site/onexvi/memories/top-20-web-studios-from-around-the-world
+- https://www.nngroup.com/articles/designing-for-waits-and-interruptions/
+- https://uxdesign.cc/a-comprehensive-list-of-human-computer-interactions-d72eaca2c0df
+- https://measuringu.com/from-umux-lite-to-ux-lite/
 
 
 TODO:
