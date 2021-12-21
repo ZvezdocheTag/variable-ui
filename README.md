@@ -8,6 +8,7 @@
 ### UI libraries
 
 - https://blueprintjs.com/
+- https://getuikit.com
 - https://alfa-laboratory.github.io/arui-feather/styleguide/#/Amount
 - https://rebassjs.org/
 - https://ant.design/
