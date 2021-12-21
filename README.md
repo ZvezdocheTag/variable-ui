@@ -265,7 +265,7 @@
 - https://atlassian.design/components/button/examples
 
 
-### Annotation UI
+
 ### Website checklist
 
 - https://anyforsoft.com/blog/website-quality-assurance-checklist/
@@ -299,7 +299,7 @@
 - https://measuringu.com/from-umux-lite-to-ux-lite/
 - https://leerob.io/blog/style-guides-component-libraries-design-systems
 - https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021
-- 
+- https://awesomeopensource.com/
 
 
 TODO:
