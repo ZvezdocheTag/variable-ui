@@ -56,6 +56,7 @@
 ### Tailwind UI libraries
 
 - https://www.tailwind-kit.com/
+- https://flowbite.com/
 - https://tailwind-mobile.com/
 - https://tailwindcomponents.com/
 - https://daisyui.com/
