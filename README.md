@@ -8,6 +8,7 @@
 ### UI libraries
 
 - https://blueprintjs.com/
+- https://github.com/sailui/ui
 - https://pancakeswap.github.io/pancake-uikit/?path=/story/components-alert--default
 - https://getuikit.com
 - https://alfa-laboratory.github.io/arui-feather/styleguide/#/Amount
