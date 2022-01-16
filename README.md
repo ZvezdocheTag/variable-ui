@@ -174,6 +174,7 @@
 
 ### Specs
 - https://source.chromium.org/chromium/chromium/src/+/master:third_party/blink/renderer/core/html/resources/html.css - chrome browser default css that are implementing for each website
+- https://github.com/w3c/browser-specs
 
 
 ### Colors Pallete
