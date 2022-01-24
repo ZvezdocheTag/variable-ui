@@ -50,8 +50,19 @@
 - https://github.com/picocss/pico
 - https://reach.tech/
 - https://github.com/vinibiavatti1/TuiCss
+- https://dev.1c-bitrix.ru/api_d7/bitrix/ui/index.php
+- https://dhtmlx.com/docs/products/dhtmlxSuite/
+- https://www.sencha.com/products/extjs/
+- https://mantine.dev/
 
 
+### Vue UI libraries
+
+- https://vuesax.com/
+- https://www.primefaces.org/primevue/showcase/#/
+- https://quasar.dev/
+- https://buefy.org/
+- 
 
 
 ### Tailwind UI libraries
@@ -267,6 +278,7 @@
 - https://www.carbondesignsystem.com/components/button/usage/
 - https://material.io/components/buttons
 - https://atlassian.design/components/button/examples
+- https://dev.1c-bitrix.ru/api_d7/bitrix/ui/buttons/button.php
 
 
 
