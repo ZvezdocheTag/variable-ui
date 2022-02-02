@@ -54,6 +54,7 @@
 - https://dhtmlx.com/docs/products/dhtmlxSuite/
 - https://www.sencha.com/products/extjs/
 - https://mantine.dev/
+- https://backstage.io/storybook/?path=/story/plugins-examples--plugin-with-data
 
 
 ### Vue UI libraries
@@ -316,6 +317,7 @@
 - https://leerob.io/blog/style-guides-component-libraries-design-systems
 - https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021
 - https://awesomeopensource.com/
+- https://uxtools.co/blog/how-designers-can-prevent-user-errors/
 
 
 TODO:
