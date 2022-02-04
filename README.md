@@ -100,6 +100,7 @@
 - https://github.com/supabase/ui
 - https://www.gustui.com/
 - https://lofiui.co/
+- https://tailwind-elements.com/docs/standard/components/accordion/
 
 
 ### Starter Templates
