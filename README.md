@@ -55,6 +55,7 @@
 - https://www.sencha.com/products/extjs/
 - https://mantine.dev/
 - https://backstage.io/storybook/?path=/story/plugins-examples--plugin-with-data
+- https://www.cssui.dev/
 
 
 ### Vue UI libraries
