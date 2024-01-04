@@ -56,6 +56,7 @@
 - https://mantine.dev/
 - https://backstage.io/storybook/?path=/story/plugins-examples--plugin-with-data
 - https://www.cssui.dev/
+- https://storybook.whop.com/?path=/docs/guides-1-getting-started--docs
 
 
 ### Vue UI libraries
